@@ -1,0 +1,24 @@
+# Urdu-LIME Core Dependencies
+# Allows local development by installing the 'src' folder as a package
+-e .
+
+# Data Processing & Math
+pandas
+numpy
+openpyxl
+
+# Machine Learning & Interpretation
+scikit-learn
+lime
+
+# Generative AI & LLM Integration
+langchain-openai
+python-dotenv
+
+# Urdu Linguistic Formatting (For RTL and Connected Script)
+arabic-reshaper
+python-bidi
+
+# Jupyter Notebook Visualization
+ipython
+ipywidgets

@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: urdu_lime
+Version: 0.1.0
+Summary: A framework for interpreting Urdu NLP models using LIME and GenAI
+Author: Rameesha Zia, Dr. Shahid Iqbal Malik
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: lime
+Requires-Dist: langchain-openai
+Requires-Dist: python-dotenv
+Requires-Dist: arabic-reshaper
+Requires-Dist: python-bidi
+Requires-Dist: openpyxl
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

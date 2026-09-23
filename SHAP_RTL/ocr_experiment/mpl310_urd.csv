@@ -1,0 +1,6 @@
+language,condition,n,CER,ci_low,ci_high,matplotlib,python,platform,tesseract
+urd,A_no_fix,200,0.9786,0.9678,0.9876,3.10.8,3.14.0,Windows-10,5.5.3.20260724
+urd,B_simple_fix,200,0.9975,0.9946,0.9995,3.10.8,3.14.0,Windows-10,5.5.3.20260724
+urd,C_full_shaping,200,0.3511,0.3073,0.398,3.10.8,3.14.0,Windows-10,5.5.3.20260724
+urd,OCR_FLOOR,200,0.3744,0.3314,0.4174,3.10.8,3.14.0,Windows-10,5.5.3.20260724
+urd,B_minus_C,200,0.6464,,p=0.000,3.10.8,3.14.0,Windows-10,5.5.3.20260724

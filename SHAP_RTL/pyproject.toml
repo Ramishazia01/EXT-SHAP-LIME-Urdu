@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+# Metadata, dependencies, and package_data are defined in setup.py.
+# This file exists so that modern build front-ends (pip, build, uv, etc.)
+# know which backend to invoke; it intentionally does not duplicate
+# the [project] table to avoid metadata drift between the two files.

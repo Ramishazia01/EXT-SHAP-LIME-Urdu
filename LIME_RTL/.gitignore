@@ -1,0 +1,16 @@
+# Security
+.env
+
+# Python 
+__pycache__/
+*.py[cod]
+venv/
+.ipynb_checkpoints/
+
+# Data (Too large for GitHub)
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db

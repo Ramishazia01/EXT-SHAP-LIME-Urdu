@@ -1,0 +1,18 @@
+[project]
+name = "urdu-interpretable-lime"
+version = "0.1.0"
+description = "A specialized LIME explainer for Urdu NLP models."
+readme = "README.md"
+authors = [{name = "Your Name", email = "email@example.com"}]
+dependencies = [
+    "lime",
+    "scikit-learn",
+    "pandas",
+    "langchain-openai",
+    "python-dotenv",
+    "openpyxl"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

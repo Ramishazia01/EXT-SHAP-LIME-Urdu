@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+lime
+langchain-openai
+python-dotenv
+arabic-reshaper
+python-bidi
+openpyxl
