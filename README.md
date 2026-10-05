@@ -1,4 +1,4 @@
-# EXT-SHAP-LIME-XAI
+# EXT-SHAP-LIME-Urdu
 
 This repository contains RTL (Right-to-Left) explainability tools for Urdu, Arabic, and other RTL languages using **SHAP** and **LIME**.
 
